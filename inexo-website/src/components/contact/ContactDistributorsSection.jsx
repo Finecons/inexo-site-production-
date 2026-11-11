@@ -50,15 +50,15 @@ const distributorsData = {
       phone: '+91-9579140447',
       type: 'Mobile'
     },
-    {
-      id: 'ind-6',
-      title: 'Coimbatore',
-      companyName: 'M/S Indo Flow Tech (P) Ltd',
-      address: '41E, 5th Cross, Thanneerpandhal Road, Maheswari Nagar, Peelamedu, Coimbatore-641 004. Tamil Nadu.',
-      email: 'indfoflowtech@yahoo.in',
-      phone: '0422-2511027',
-      type: 'Ph'
-    },
+    // {
+    //   id: 'ind-6',
+    //   title: 'Coimbatore',
+    //   companyName: 'M/S Indo Flow Tech (P) Ltd',
+    //   address: '41E, 5th Cross, Thanneerpandhal Road, Maheswari Nagar, Peelamedu, Coimbatore-641 004. Tamil Nadu.',
+    //   email: 'indfoflowtech@yahoo.in',
+    //   phone: '0422-2511027',
+    //   type: 'Ph'
+    // },
     {
       id: 'ind-7',
       title: 'Jharkhand',
